@@ -1,0 +1,84 @@
+{
+ "errors": [],
+ "checks": {
+  "title_state": "title",
+  "real_input": {
+   "started": true,
+   "moved_px_keyboard": 185,
+   "flare_on_space": true,
+   "mouse_moved_px": 107,
+   "shake_toggle_works": true,
+   "pause_works": true,
+   "mute_toggle_works": true
+  },
+  "random_realtime": {
+   "state": "play",
+   "t": 12.8,
+   "score": 88,
+   "kills": 7
+  },
+  "win_seed": 11,
+  "gloom_shot": {
+   "state": "play",
+   "t": 126.50000000004674,
+   "R": 63.345824993009884,
+   "score": 32320
+  },
+  "win_run": {
+   "state": "over",
+   "won": true,
+   "score": 76832,
+   "rank": "Beacon",
+   "kills": 1310,
+   "gloomKilled": true,
+   "picks": [
+    "steady",
+    "after",
+    "sear",
+    "sear",
+    "wild",
+    "after",
+    "lode",
+    "sear",
+    "spark",
+    "fleet",
+    "phoenix"
+   ]
+  },
+  "restart_from_end": "play",
+  "loss_run": {
+   "seed": 22,
+   "state": "over",
+   "won": false,
+   "diedAt": "4:53 AM",
+   "score": 34219
+  },
+  "browser_sim": {
+   "idle": {
+    "winPct": 0,
+    "avgT": 56
+   },
+   "random": {
+    "winPct": 0,
+    "avgT": 20
+   },
+   "novice": {
+    "winPct": 33,
+    "avgT": 136
+   },
+   "average": {
+    "winPct": 50,
+    "avgT": 152
+   },
+   "expert": {
+    "winPct": 100,
+    "avgT": 180
+   }
+  },
+  "touch": {
+   "state": "play",
+   "dragged_right_px": 229,
+   "flare_button": true
+  }
+ }
+}

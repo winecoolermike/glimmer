@@ -1,0 +1,10 @@
+(first card)   win% 53 avgT 149 avgScore 55156
+halo           win% 33 avgT 142 avgScore 47762
+sear           win% 30 avgT 129 avgScore 41304
+spark          win% 47 avgT 143 avgScore 51211
+after          win% 63 avgT 153 avgScore 60663
+wild           win% 47 avgT 144 avgScore 52711
+lode           win% 80 avgT 167 avgScore 71692
+fleet          win% 57 avgT 149 avgScore 54647
+steady         win% 43 avgT 140 avgScore 48484
+phoenix        win% 70 avgT 167 avgScore 66984

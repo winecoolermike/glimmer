@@ -1,0 +1,170 @@
+{
+ "idle": {
+  "runs": 60,
+  "winRate": 0,
+  "medianTime": 75.1,
+  "medianScore": 11102,
+  "gloomKill": 0,
+  "nearLossPct": 100,
+  "medKindles": 2,
+  "medFlares": 0,
+  "avgR": 97,
+  "lowPct": 3,
+  "deathHour": [
+   0,
+   28,
+   20,
+   12,
+   0,
+   0,
+   0
+  ],
+  "dmgShare": {
+   "moth": 395,
+   "shade": 3357,
+   "lurker": 4350,
+   "wraith": 708,
+   "gloom": 0
+  }
+ },
+ "random": {
+  "runs": 60,
+  "winRate": 0,
+  "medianTime": 19.7,
+  "medianScore": 68,
+  "gloomKill": 0,
+  "nearLossPct": 100,
+  "medKindles": 0,
+  "medFlares": 3,
+  "avgR": 60,
+  "lowPct": 53,
+  "deathHour": [
+   57,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "dmgShare": {
+   "moth": 0,
+   "shade": 2472,
+   "lurker": 0,
+   "wraith": 0,
+   "gloom": 0
+  }
+ },
+ "novice (skill .2, first pick)": {
+  "runs": 60,
+  "winRate": 23,
+  "medianTime": 115,
+  "medianScore": 23725,
+  "gloomKill": 23,
+  "nearLossPct": 93,
+  "medKindles": 7,
+  "medFlares": 22,
+  "avgR": 96,
+  "lowPct": 14,
+  "deathHour": [
+   2,
+   2,
+   12,
+   17,
+   11,
+   2,
+   14
+  ],
+  "dmgShare": {
+   "moth": 2277,
+   "shade": 5803,
+   "lurker": 4115,
+   "wraith": 1147,
+   "gloom": 164
+  }
+ },
+ "average (skill .5, first pick)": {
+  "runs": 60,
+  "winRate": 65,
+  "medianTime": 180,
+  "medianScore": 67229,
+  "gloomKill": 45,
+  "nearLossPct": 90,
+  "medKindles": 11,
+  "medFlares": 52,
+  "avgR": 91,
+  "lowPct": 18,
+  "deathHour": [
+   0,
+   0,
+   4,
+   7,
+   5,
+   5,
+   39
+  ],
+  "dmgShare": {
+   "moth": 1863,
+   "shade": 2732,
+   "lurker": 3013,
+   "wraith": 1353,
+   "gloom": 334
+  }
+ },
+ "sharp (skill .8, first pick)": {
+  "runs": 60,
+  "winRate": 80,
+  "medianTime": 180,
+  "medianScore": 78655,
+  "gloomKill": 70,
+  "nearLossPct": 90,
+  "medKindles": 11,
+  "medFlares": 69,
+  "avgR": 87,
+  "lowPct": 19,
+  "deathHour": [
+   0,
+   0,
+   0,
+   5,
+   5,
+   2,
+   48
+  ],
+  "dmgShare": {
+   "moth": 854,
+   "shade": 911,
+   "lurker": 2365,
+   "wraith": 401,
+   "gloom": 356
+  }
+ },
+ "expert (skill 1, smart pick)": {
+  "runs": 60,
+  "winRate": 98,
+  "medianTime": 180,
+  "medianScore": 84388,
+  "gloomKill": 70,
+  "nearLossPct": 68,
+  "medKindles": 11,
+  "medFlares": 79,
+  "avgR": 87,
+  "lowPct": 6,
+  "deathHour": [
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   59
+  ],
+  "dmgShare": {
+   "moth": 280,
+   "shade": 48,
+   "lurker": 1262,
+   "wraith": 0,
+   "gloom": 0
+  }
+ }
+}
